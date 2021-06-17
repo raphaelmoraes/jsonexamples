@@ -2,6 +2,6 @@
   "CloudStorageInfo": [
     { "title": "Documents", "numOfFiles": 1328,  "svgSrc": "assets/icons/Documents.svg",   "totalStorage": "1.9GB",  "color": primaryColor, percentage: 35, },
     { "title": "Google Drive", "numOfFiles": 1328, "svgSrc": "assets/icons/google_drive.svg", "totalStorage": "2.9GB", "color": Color(0xFFFFA113), "percentage": 35, },
-    { "title": "One Drive", numOfFiles: 1328, svgSrc: "assets/icons/one_drive.svg", totalStorage: "1GB", "color": Color(0xFFA4CDFF), "percentage": 10, ), }
+    { "title": "One Drive", "numOfFiles": 1328, "svgSrc": "assets/icons/one_drive.svg", "totalStorage": "1GB", "color": Color(0xFFA4CDFF), "percentage": 10, ), }
   ],
 }
